@@ -69,7 +69,7 @@ ______________________________________
 ║❒ 
 ║❒ *Owner:* _https://wa.me/2347078389784_
 ║❒ *Repo:* _https://github.com/wasixd/WASI-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
+║❒ *WaGroup:* _https://chat.whatsapp.com/EElKU0siXQsC99Bq47LgzR?mode=gi_c
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
 ║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
 ╚════════════════════════╝

@@ -6,7 +6,7 @@ const fs = require('fs');
 let router = express.Router()
 const pino = require("pino");
 const {
-    default: Gifted_Tech,
+    default: FYT_Tech,
     useMultiFileAuthState,
     delay,
     makeCacheableSignalKeyStore,
@@ -43,8 +43,8 @@ router.get('/', async (req, res) => {
                  await res.send({code});
                      }
                  }
-            FYT_Code_By_Gifted_Tech.ev.on('creds.update', saveCreds)
-            FYT_Code_By_Gifted_Tech.ev.on("connection.update", async (s) => {
+            XMD_Code_By_FYT_Tech.ev.on('creds.update', saveCreds)
+            XMD_Code_By_FYT_Tech.ev.on("connection.update", async (s) => {
                 const {
                     connection,
                     lastDisconnect
